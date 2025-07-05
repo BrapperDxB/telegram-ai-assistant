@@ -1,0 +1,5 @@
+{
+  "name": "Telegram AI Assistant Dashboard",
+  "description": "A dashboard to manage a Telegram bot that scans chats for keywords, sends notifications for matches, and allows for direct replies. This UI provides administrative controls for managing keywords and chats, and a live feed of detected messages.",
+  "requestFramePermissions": []
+}
